@@ -1,0 +1,14 @@
+[
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "234324",
+        "image": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/2026-kia-ev3-116-66df01c749146.jpg?crop=0.670xw:1.00xh;0.278xw,0&resize=360:*"
+    },
+    {
+        "name": "R15 V3",
+        "type": "Bike",
+        "price": "7000",
+        "image": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/2026-genesis-electrified-g80-102-66855613efd37.jpg?crop=0.508xw:0.762xh;0.349xw,0.166xh&resize=360:*"
+    }
+]
